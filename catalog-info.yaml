@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: uaitizap
+  annotations:
+    github.com/project-slug: marceloljn/uaitizap
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
